@@ -1,6 +1,6 @@
 # Smart contracts and tests for a collateralized, upgradable stablecoin
 
-The system has 3 smart contracts:
+The system has 3 main smart contracts:
 - Proxy: serves as a permanent entry point for users.
 - Store: stores data such as balances and roles.
 - Token: all business logic is here.
