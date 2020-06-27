@@ -8,7 +8,7 @@ The system has 3 main smart contracts:
 Beyond normal stablecoin functionalities, these contracts also feature:
 - Upgradable system: allows for the replacement of the logic layer (the token implementation).
 - Role-based access control: manage roles and limit who can mint and burn tokens.
-- Buy and sell produts using the stablecoin: there are transfer functions with arbitrary data fields.
+- Buy and sell produts using the stablecoin: there are special transfer functions with arbitrary data fields.
 
 The project has two other (private) repositories containing the administrative dashboard and the blockchain monitor (Node.js).
 
